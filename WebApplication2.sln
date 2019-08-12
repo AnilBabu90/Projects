@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{50A0DC00-ED81-4BD1-ABD0-02A9FD7125EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AEE68063-2FE1-409D-970D-2A0DE29216F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{090D8693-DABF-4CAC-ACE4-23A437AC2166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A0DC00-ED81-4BD1-ABD0-02A9FD7125EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A0DC00-ED81-4BD1-ABD0-02A9FD7125EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A0DC00-ED81-4BD1-ABD0-02A9FD7125EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A0DC00-ED81-4BD1-ABD0-02A9FD7125EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090D8693-DABF-4CAC-ACE4-23A437AC2166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090D8693-DABF-4CAC-ACE4-23A437AC2166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090D8693-DABF-4CAC-ACE4-23A437AC2166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090D8693-DABF-4CAC-ACE4-23A437AC2166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{090D8693-DABF-4CAC-ACE4-23A437AC2166} = {AEE68063-2FE1-409D-970D-2A0DE29216F7}
+	EndGlobalSection
+EndGlobal
